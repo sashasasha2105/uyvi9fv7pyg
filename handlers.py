@@ -42,4 +42,4 @@ async def handle_preparation_choice(update: Update, context: ContextTypes.DEFAUL
                                            [InlineKeyboardButton("Следующий шаг", callback_data='next_step')]
                                        ]))
 
-# Добавьте остальные обработчики здесь...
+# Добавьте остальные обработчики здесь...rgrgr
